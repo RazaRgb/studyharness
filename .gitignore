@@ -1,0 +1,14 @@
+# Runtime data: contains API keys, sessions, knowledge graph, and personal notes
+data.json
+
+# Dependencies and build tooling
+node_modules/
+
+# Secrets / environment
+.env
+.env.*
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db

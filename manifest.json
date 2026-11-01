@@ -1,0 +1,9 @@
+{
+  "id": "study-harness",
+  "name": "Study Harness",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "A personal learning harness: probe, plan, teach, graph, practice, and flashcards.",
+  "author": "Razza",
+  "isDesktopOnly": true
+}
